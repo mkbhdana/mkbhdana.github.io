@@ -1,0 +1,8 @@
+{
+    "servers": [
+        {
+            "name": "mkbhdanaServer",
+            "address": "https://mkbhdana-anisette-v3-server.onrender.com"
+        }
+    ]
+}
